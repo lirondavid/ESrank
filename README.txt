@@ -20,7 +20,7 @@ An example for usage:
 [lower,upper] = ESrank(1.025,41,8)
 
 
-Copyright (C) Avishai Wool and Liron David, 2019. All rights reserved.
+Copyright (C) Liron David and Avishai Wool, 2019. All rights reserved.
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -37,7 +37,7 @@ If you find this software useful, we ask that you cite our paper:
 @inproceedings{david2019poly,
   title={Poly-logarithmic side channel rank estimation via exponential sampling},
   author={David, Liron and Wool, Avishai},
-  booktitle={Cryptographers’ Track at the RSA Conference},
+  booktitle={Cryptographersâ€™ Track at the RSA Conference},
   pages={330--349},
   year={2019},
   organization={Springer}
